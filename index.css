@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #fff0f3;
+  margin: 0;
+  overflow: hidden;
+}
+
+.font-romantic {
+  font-family: 'Dancing Script', cursive;
+}
